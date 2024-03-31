@@ -7,7 +7,8 @@ I'm a 23-year-old pursuing my Master's degree in Artificial Intelligence at Pers
 - Master's in Artificial Intelligence, Persian Gulf University
 
 🔍 **Research and Publications:**
-- I've authored an article on sentiment analysis in the field of natural language processing, specifically focusing on opinions about Iranian cars. Check it out .(magiran.com/p2570309). The article was published in "Mogiran" magazine, an Iranian publication.
+- I've authored an article on sentiment analysis in the field of natural language processing, specifically focusing on opinions about Iranian cars. Check it out [Article Link](magiran.com/p2570309)
+ The article was published in "Mogiran" magazine, an Iranian publication.
 
 💼 **Current Work:**
 - Currently, I'm engaged in data analysis and processing, particularly with time series data. My work involves utilizing neural networks such as LSTM and ESN.
