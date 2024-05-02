@@ -14,3 +14,5 @@ I'm a 23-year-old pursuing my Master's degree in Artificial Intelligence at Pers
 - Currently, I'm engaged in data analysis and processing, particularly with time series data. My work involves utilizing neural networks such as LSTM and ESN.
 
 Feel free to explore my repositories and connect with me!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabamansori&show_icons=true&bg_color=00000000)
