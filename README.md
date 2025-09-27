@@ -1,18 +1,17 @@
-### Hi there! 👋 I'm Leila Gonbadi.
+# Hi there! 👋 I'm Leila Gonbadi
 
-I'm a 23-year-old pursuing my Master's degree in Artificial Intelligence at Persian Gulf University. I completed my Bachelor's degree in Computer Engineering from the same university.
+I'm a 23-year-old Master's student in **Artificial Intelligence** at Persian Gulf University. I completed my Bachelor's in **Computer Engineering** from the same university.
 
-📘 **Education:**
-- Bachelor's in Computer Engineering, Persian Gulf University
-- Master's in Artificial Intelligence, Persian Gulf University
+## 📘 Education
+- **B.Sc. Computer Engineering**, Persian Gulf University  
+- **M.Sc. Artificial Intelligence**, Persian Gulf University  
 
-🔍 **Research and Publications:**
-- I've authored an article on sentiment analysis in the field of natural language processing, specifically focusing on opinions about Iranian cars. Check it out [Article Link](https://magiran.com/p2570309)
- The article was published in "Magiran" magazine, an Iranian publication.
+## 🔍 Research & Publications
+- Focused on **Artificial Intelligence, Machine Learning, and Time Series Analysis**  
+- [Google Scholar Profile](https://scholar.google.com/citations?user=2moYjsoAAAAJ&hl=en)  
 
-💼 **Current Work:**
-- Currently, I'm engaged in data analysis and processing, particularly with time series data. My work involves utilizing neural networks such as LSTM and ESN.
+## 💼 Current Work
+- **Data analysis and processing**, especially with time series data  
+- Working with neural networks: **LSTM** & **ESN**  
 
-Feel free to explore my repositories and connect with me!
-
-
+Feel free to explore my repositories and connect with me!  
