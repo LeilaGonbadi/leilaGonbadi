@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Leila Gonbadi
 
-I'm a 23-year-old Master's student in **Artificial Intelligence** at Persian Gulf University. I completed my Bachelor's in **Computer Engineering** from the same university.
+I'm a 25-year-old Master's student in **Artificial Intelligence** at Persian Gulf University. I completed my Bachelor's in **Computer Engineering** from the same university.
 
 ## 📘 Education
 - **B.Sc. Computer Engineering**, Persian Gulf University  
